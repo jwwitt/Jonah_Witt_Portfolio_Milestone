@@ -1,0 +1,181 @@
+game_id,opponent,points_For,points_against,game_result,game_type,coach_id,season_id
+1,Georgia Tech,42,41,Win,Regular Season,1,1
+2,Indiana State,42,7,Win,Regular Season,1,1
+3,Florida,20,26,Loss,Reuglar Season,1,1
+4,UMASS,17,13,Win,Regular Season,1,1
+5,Georgia,0,41,Loss,Regular Season,1,1
+6,South Carolina,9,15,Loss,Regular Season,1,1
+7,Alabama,7,45,Loss,Regular Season,1,1
+8,Kentucky,26,29,Loss,Regular Season,1,1
+9,Southern Miss,24,10,Win,Regular Season,1,1
+10,Missouri,17,50,Loss,Regular Season,1,1
+11,LSU,10,30,Loss,Regular Season,5,1
+12,Vanderbilt,24,42,Loss,Regular Season,5,1
+13,Michigan,17,33,Loss,Regular Season,4,2
+14,Tennessee,26,20,Win,Regular Season,4,2
+15,Kentucky,28,27,Win,Regular Seasonf,4,2
+16,Vanderbilt,38,24,Win,Regular Season,4,2
+17,LSU,16,17,Loss,Regular Season,4,2
+18,Texas A&M,17,19,Loss,Regular Season,4,2
+19,Georgia,7,42,Loss,Regular Season,4,2
+20,Missouri,16,45,Loss,Regular Seasonf,6,2
+21,South Carolina,20,28,Loss,Regular Season,6,2
+22,UAB,36,7,Win,Regular Season,6,2
+23,Florida State,22,38,Loss,Regular Season,6,2
+24,Appalachian State,31,10,Win,Regular Season,3,3
+25,Notre Dame,20,19,Win,Regular Season,3,3
+26,Samford,42,14,Win,Regular Season,3,3
+28,Mississippi State,31,3,Win,Regular Season,3,3
+29,Tennessee,41,0,Win,Regular Season,3,3
+30,Vanderbilt,45,14,Win,Regular Season,3,3
+31,Missouri,53,28,Win,Regular Season,3,3
+32,Florida,42,7,Win,Regular Season,3,3
+33,Sourth Carolina,24,10,Win,Regular Season,3,3
+34,Auburn,17,40,Loss,Regular Season,3,3
+35,Kentucky,42,13,Win,Regular Season,3,3
+36,Georgia Tech,38,7,Win,Regular Season,3,3
+38,Auburn,28,7,Win,Conference Championship,3,3
+39,Oklahoma,54,48,Win,Bowl Game,3,3
+40,Alabama,23,26,Loss,National Championship,3,3
+41,North Carolina State,35,28,Win,Regular Season,7,4
+42,Missouri,13,31,Loss,Regular Season,7,4
+43,Kentucky,13,23,Loss,Regular Season,7,4
+44,Louisiana Tech,17,16,Win,Regular Season,7,4
+45,Texas A&M,17,24,Loss,Regular Season,7,4
+46,Arkansas,48,22,Win,Regular Season,7,4
+47,Tennessee,15,9,Win,Regular Season,7,4
+48,Vanderbilt,34,27,Win,Regular Season,7,4
+49,Georgia,10,24,Loss,Regular Season,7,4
+50,Florida,28,20,Win,Regular Season,7,4
+51,Wofford,31,10,Win,Regular Season,7,4
+52,Clemson,10,34,Loss,Regular Season,7,4
+53,Michigan,26,19,Win,Bowl Game,7,4
+54,Southern Miss,24,17,Win,Regular Season,8,5
+55,Eastern Kentucky,27,16,Win,Regular Season,8,5
+56,South Carolina,23,13,Win,Regular Season,8,5
+57,Florida,27,28,Loss,Regular Season,8,5
+58,Eastern Michigan,24,20,Win,Regular Season,8,5
+59,Missouri,40,34,Win,Regular Season,8,5
+60,Mississippi State,7,45,Loss,Regular Season,8,5
+61,Tennessee,29,26,Win,Regular Season,8,5
+62,Ole Miss,34,37,Loss,Regular Season,8,5
+63,Vanderbilt,44,21,Win,Regular Season,8,5
+64,Georgia,13,42,Loss,Regular Season,8,5
+65,Louisville,17,44,Loss,Regular Season,8,5
+66,Northwestern,23,24,Loss,Bowl Game,8,5
+68,MTSU,28,6,Win,Regular Season,9,6
+69,Alabama A&M,42,0,Win,Regular Season,9,6
+70,Kansas State,14,7,Win,Regular Season,9,6
+71,Alabama,0,59,Loss,Regular Season,9,6
+72,Florida,24,38,Loss,Regular Season,9,6
+73,Georgia,14,45,Loss,Regular Season,9,6
+74,Ole Miss,35,57,Loss,Regular Season,9,6
+75,South Carolina,27,34,Loss,Regular Season,9,6
+76,Western Kentucky,31,17,Win,Regular Season,9,6
+77,Kentucky,21,44,Loss,Regular Season,9,6
+78,Missouri,17,45,Loss,Regular Season,9,6
+79,Tennessee,42,24,Loss,Regular Season,9,6
+81,Missouri State,72,43,Win,Regular Season,10,7
+82,South Carolina,13,31,Loss,Regular Season,10,7
+83,Purdue,3,35,Loss,Regular Season,10,7
+84,Auburn,14,51,Loss,Regular Season,10,7
+85,Kentucky,34,40,Loss,Regular Season,10,7
+87,Georgia,28,53,Loss,Regular Season,10,7
+88,Idaho,68,21,Win,Regular Season,10,7
+89,Connecticut,52,12,Win,Regular Season,10,7
+90,Florida,45,16,Win,Regular Season,10,7
+91,Tennessee,50,17,Win,Regular Season,10,7
+92,Vanderbilt,45,17,Win,Regular Season,10,7
+93,Arkansas,48,45,Win,Regular Season,10,7
+94,Texas,16,33,Loss,Bowl Game,10,7
+96,BYU,27,0,Win,Regular Season,11,8
+97,UTC,45,10,Win,Regular Season,11,8
+98,Mississippi State,7,37,Loss,Regular Season,11,8
+99,Syracuse,35,26,Win,Regular Season,11,8
+100,Troy,21,24,Loss,Regular Season,11,8
+101,Florida,17,16,Win,Regular Season,11,8
+102,Auburn,27,23,Win,Regular Season,11,8
+103,Ole Miss,40,24,Win,Regular Season,11,8
+104,Alabama,10,24,Loss,Regular Season,11,8
+105,Arkansas,33,10,Win,Regular Season,11,8
+107,Tennessee,30,10,Win,Regular Season,11,8
+108,Texas A&M,45,21,Win,Regular Season,11,8
+109,Notre Dame,17,21,Loss,Bowl Game,11,8
+111,Florida State,24,7,Win,Regular Season,2,9
+112,Fresno State,41,10,Win,Regular Season,2,9
+113,Colorado State,41,23,Win,Regular Season,2,9
+114,Vanderbilt,59,0,Win,Regular Season,2,9
+115,Ole Miss,66,3,Win,Regular Season,2,9
+116,Texas A&M,27,19,Win,Regular Season,2,9
+117,Arkansas,41,9,Win,Regular Season,2,9
+118,Tennessee,45,7,Win,Regular Season,2,9
+119,LSU,24,10,Win,Regular Season,2,9
+120,Mississippi State,31,24,Win,Regular Season,2,9
+121,Mercer,56,0,Win,Regular Season,2,9
+122,Auburn,14,26,Loss,Regular Season,2,9
+123,Clemson,24,6,Win,Bowl Game,2,9
+124,Georgia,26,23,Win,National Championship,2,9
+126,Georgia Southern,41,7,Win,Regular Season,12,10
+127,Clemson,6,14,Loss,Regular Season,12,10
+128,Mercer,24,10,Win,Regular Season,12,10
+129,Missouri,51,14,Win,Regular Season,12,10
+130,Mississippi State,49,10,Win,Regular Season,12,10
+131,Ole Miss,44,23,Win,Regular Season,12,10
+132,LSU,23,27,Loss,Regular Season,12,10
+134,Arkansas,52,20,Win,Regular Season,12,10
+135,Texas A&M,42,27,Win,Regular Season,12,10
+136,Georgia,40,17,Win,Regular Season,12,10
+137,Louisiana-Monroe,42,14,Win,Regular Season,12,10
+138,Alabama,26,14,Win,Regular Season,12,10
+139,Georgia,7,28,Loss,Conference Championship,12,10
+140,UCF,27,34,Loss,Bowl Game,12,10
+142,South Alabama,47,27,Win,Regular Season,13,11
+143,UT Martin,45,23,Win,Regular Season,13,11
+144,California,16,27,Loss,Regular Season,13,11
+145,Alabama,3,66,Loss,Regular Season,13,11
+146,Auburn,23,44,Loss,Regular Season,13,11
+147,Vanderbilt,57,35,Win,Regular Season,13,11
+148,LSU,24,40,Loss,Regular Season,13,11
+149,Arkansas,37,38,Loss,Regular Season,13,11
+150,Kentucky,37,34,Win,Regular Season,13,11
+151,Louisiana-Lafayette,50,22,Win,Regular Season,13,11
+152,Texas A&M,24,31,Loss,Regular Season,13,11
+153,Mississippi State,31,28,Win,Regular Season,13,11
+155,UCLA,44,45,Loss,Regular Season,14,12
+156,Nicholls State,24,14,Win,Regular Season,14,12
+157,Louisiana,45,21,Win,Regular Season,14,12
+158,Arkansas,50,43,Win,Regular Season,14,12
+159,South Carolina,24,17,Win,Regular Season,14,12
+160,Alabama,19,27,Loss,Regular Season,14,12
+161,Florida,19,17,Win,Regular Season,14,12
+162,Mississippi State,14,35,Loss,Regular Season,14,12
+163,Auburn,27,42,Loss,Regular Season,14,12
+164,New Mexico,55,14,Win,Regular Season,14,12
+165,Ole Miss,31,24,Win,Regular Season,14,12
+166,LSU,21,45,Loss,Regular Season,14,12
+167,Wake Forest,52,55,Loss,Bowl Game,15,12
+168,Charleston Southern,49,0,Win,Regular Season,16,13
+169,Louisiana Tech,57,21,Win,Regular Season,16,13
+170,LSU,37,7,Win,Regular Season,16,13
+171,Georgia,3,31,Loss,Regular Season,16,13
+172,Auburn,10,49,Loss,Regular Season,16,13
+173,BYU,35,10,Win,Regular Season,16,13
+174,Kentucky,45,7,Win,Regular Season,16,13
+176,Texas A&M,35,13,Win,Regular Season,16,13
+177,UMASS,34,23,Win,Regular Season,16,13
+178,Alabama,24,31,Loss,Regular Season,16,13
+179,Arkansas,28,21,Win,Regular Season,16,13
+180,Ole Miss,28,31,Loss,Regular Season,16,13
+181,Louisville,31,27,Win,Bowl Game,16,13
+182,Florida A&M,49,7,Win,Regular Season,17,14
+183,TCU,7,28,Loss,Regular Season,17,14
+184,Texas A&M,43,50,Loss,Regular Season,17,14
+186,New Mexico State,42,24,Win,Regular Season,17,14
+187,South Carolina,22,48,Loss,Regular Season,17,14
+188,Alabama,9,41,Loss,Regular Season,17,14
+189,Auburn,20,52,Loss,Regular Season,17,14
+190,Ole Miss,38,37,Win,Regular Season,17,14
+191,Coastal Carolina,39,38,Win,Regular Season,17,14
+192,LSU,10,33,Loss,Regular Season,17,14
+193,Mississippi State,21,28,Loss,Regular Season,17,14
+194,Missouri,45,48,Loss,Regular Season,17,14
