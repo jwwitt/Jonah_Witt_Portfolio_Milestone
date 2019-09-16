@@ -1,8 +1,8 @@
 # Portfolio Milestone
 ## Jonah Witt
-234141818
-jwwitt@syr.edu
-yankeewitt@gmail.com
+234141818  
+jwwitt@syr.edu  
+yankeewitt@gmail.com  
 
 ## Table of Contents
 1. README.md
