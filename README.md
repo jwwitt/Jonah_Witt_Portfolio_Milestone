@@ -2,7 +2,7 @@
 ## Jonah Witt
 234141818  
 jwwitt@syr.edu  
-yankeewitt@gmail.com  
+jwitt1296@gmail.com  
 
 ## Table of Contents
 1. README.md
